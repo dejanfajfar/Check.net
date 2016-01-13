@@ -6,7 +6,7 @@ namespace Check.net.Tests
 	public class CheckFixture
 	{
 		[Test]
-		public void Foo(){
+		public void Given_NonNullValue_And_CheckThatNotNull_Pass(){
 			Check.IsNot.Null ("Something");
 		}
 	}

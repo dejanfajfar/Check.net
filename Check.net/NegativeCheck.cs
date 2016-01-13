@@ -9,7 +9,7 @@ namespace Check.net
 		}
 
 		public void Null<T>(T value, string message = "The given value is not null"){
-			if(value != null){
+			if(value == null){
 				throw new CheckException (message);
 			}
 		}
