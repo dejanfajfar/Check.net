@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+	<id>Check.net</id>
+	<version>$version$</version>
+	<authors>dejan@fajfar.com</authors>
+	<owners>dejan@fajfar.com</owners>
+	<projectUrl>https://github.com/dejanfajfar/Check.net</projectUrl>
+	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<summary>Code contract replacement</summary>
+	<description>
+		Implementation of contracts that do not require compiler flags to work
+	</description>
+  </metadata>
+  <files>
+  </files>
+</package>

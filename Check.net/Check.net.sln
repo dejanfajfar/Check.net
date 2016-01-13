@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check.net", "Check.net\Check.net.csproj", "{A401FFBB-AB31-4982-A6EF-95FCDB500F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check.net.Tests", "Check.net.Tests\Check.net.Tests.csproj", "{A559E45A-8593-46F9-9A8A-05F8A81DB256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A401FFBB-AB31-4982-A6EF-95FCDB500F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A401FFBB-AB31-4982-A6EF-95FCDB500F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A401FFBB-AB31-4982-A6EF-95FCDB500F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A401FFBB-AB31-4982-A6EF-95FCDB500F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A559E45A-8593-46F9-9A8A-05F8A81DB256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A559E45A-8593-46F9-9A8A-05F8A81DB256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A559E45A-8593-46F9-9A8A-05F8A81DB256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A559E45A-8593-46F9-9A8A-05F8A81DB256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
