@@ -7,7 +7,7 @@ namespace Check.net.Tests
 	{
 		[Test]
 		public void Given_NonNullValue_And_CheckThatNotNull_Pass(){
-			Check.IsNot.Null ("Something");
+			
 		}
 	}
 }

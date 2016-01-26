@@ -2,11 +2,11 @@
 {
 	public static class Check
 	{
-		public static NegativeCheck IsNot {
-			get {
-				return new NegativeCheck();
-			}
-		}
+
+        public static Checker<T> That<T>(T value)
+        {
+            return new Checker<T>(value);
+        }
 	}
 }
 
